@@ -210,7 +210,8 @@ public class Main {
         }
         //System.out.print("Количество цифр во введенном тексте: " + count9);
         //System.out.println("\n\n");
-        System.out.println("\n\n");
+        //System.out.println("\n\n");
+        System.out.println("Проверка изменений на GitHub");
 
     }   //================= скобка закрывающая метод  public static void main =====================
 
