@@ -208,7 +208,8 @@ public class Main {
         while (matcher9.find()) {
            count9++;
         }
-        System.out.print("Количество цифр во введенном тексте: " + count9);
+        //System.out.print("Количество цифр во введенном тексте: " + count9);
+        //System.out.println("\n\n");
         System.out.println("\n\n");
 
     }   //================= скобка закрывающая метод  public static void main =====================
